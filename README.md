@@ -1,0 +1,2 @@
+# jobathon-feb-2022
+This is a machine learning model which predicts the engaging score of a video uploaded on a social media. This is basically a regression problem. The model was developed in Python using XGBoost regression algorithm. This model was developed as a part of Data Science Hackathon named as 'Job-A-Thon February 2022'' organized by Analytics Vidya. My rank in this competition was 170 out of 1180 participants
